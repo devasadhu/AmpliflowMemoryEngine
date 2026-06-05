@@ -1,0 +1,17 @@
+{
+    "user_id": "user_102",
+    "last_active": "2026-06-05",
+    "last_icp_loaded": "icp_tech_ai_founder.md",
+    "last_query": "Write a LinkedIn post about our new AI assistant feature",
+    "ongoing_drafts": [
+      {
+        "draft_id": "draft_001",
+        "platform": "LinkedIn",
+        "icp_target": "icp_tech_ai_founder",
+        "status": "in_progress",
+        "created": "2026-06-04"
+      }
+    ],
+    "preferred_platforms": ["LinkedIn", "Instagram"],
+    "total_posts_generated": 47
+  }
